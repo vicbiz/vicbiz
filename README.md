@@ -25,7 +25,7 @@ const anmol = {
         backEnd: {
             js: ["node", "express", "SuiteScript", "JAVA", "Groovy", "JSP", 'GSP"],
         },
-        devOps: ["AWS", "Docker🐳", ""Nginx"],
+        devOps: ["AWS", "Docker🐳", "Nginx"],
         databases: ["mongo", "MySql"],
         misc: ["IntelliJ", "Visual Studio Code", "php"]
     },

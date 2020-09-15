@@ -5,11 +5,9 @@
 <p><em>Software Engineer at <a href="http://www.ForbesTravelGuide.com">ClearTax</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/jmoon66?label=Follow)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-jaemoon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaemoon/)](https://www.linkedin.com/in/jaemoon/)
 ![GitHub followers](https://img.shields.io/github/followers/vicbiz?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=vibciz.vicbiz)
-![Waka Readme](https://github.com/vicbiz/vicbiz/workflows/Waka%20Readme/badge.svg)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 

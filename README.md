@@ -72,5 +72,6 @@ Windows                  2  hrs 15 mins      ██░░░░░░░░░�
 
 ```
 <!--END_SECTION:waka-->
-
+<!--
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
+-->

@@ -1,7 +1,7 @@
 
 <h2>I'm Jae Moon! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 Hi there, welcome to my Repository 👋
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="130">
 <p><em>Software Engineer at <a href="http://www.ForbesTravelGuide.com">Forbes Travel Guide</a>
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
@@ -10,7 +10,7 @@ Hi there, welcome to my Repository 👋
 ![GitHub followers](https://img.shields.io/github/followers/vicbiz?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=vibciz.vicbiz)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> A little more about me...  
 
 ```javascript
 const jmoon = {

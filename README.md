@@ -12,7 +12,7 @@ Hi there, welcome to my Repository 👋
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const anmol = {
+const jmoon = {
     pronouns: "He" | "Him",
     code: ["Javascript", "HTML", "CSS", "Java", "php", "React", "Python"],
     askMeAbout: ["web dev", "tech", "app dev", "painting", "singing],

@@ -1,6 +1,6 @@
-### Hi there, welcome to Jae Moon's Repository 👋
 
 <h2>I'm Jae Moon! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+### Hi there, welcome to my Repository 👋
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Software Engineer at <a href="http://www.ForbesTravelGuide.com">ClearTax</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
